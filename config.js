@@ -48,19 +48,19 @@ global.socialm = "GitHub: Sibuuu07" //ur github or insta name
 global.location = "India" //ur location
 
 //bot bombdy
-global.botname = "ur bot name" //ur bot name
-global.websitex = "https://youtu.be/xn9RatOrbuI" //ur website
+global.botname = "Arctix AI" //ur bot name
+global.websitex = "https://www.instagram.com/sibssssssss/" //ur website
 global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n🦄🦄🦄 "
-global.author = "🦄Dream Guy Xeon"
-global.themeemoji = "🐶"
-global.reactmoji = "😘"
-global.ownertag = ['ur number'] //ur owner tag
-global.ownernummenu = ['ur number'] //ur owner number in menu and all
-global.watermark = "Xeon Bot Inc." //ur watermark
-global.botscript = "https://github.com/DGXeon/CheemsBot-MD3"
-global.linkz1 = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.linkz2 = "https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd"
+global.packname = "Arctix\n\n\n\n\n\n\n "
+global.author = "inc"
+global.themeemoji = "🧧"
+global.reactmoji = "😇"
+global.ownertag = ['447451239331'] //ur owner tag
+global.ownernummenu = ['447451239331'] //ur owner number in menu and all
+global.watermark = "𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜." //ur watermark
+global.botscript = "https://github.com/Sibuuu07/MD-3"
+global.linkz1 = "https://chat.whatsapp.com/Kb6msWfU8fP25KcG3M4Xtw"
+global.linkz2 = "https://chat.whatsapp.com/Kb6msWfU8fP25KcG3M4Xtw"
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic

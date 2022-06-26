@@ -50,8 +50,8 @@ global.location = "India" //ur location
 //bot bombdy
 global.botname = "Arctix AI" //ur bot name
 global.websitex = "https://www.instagram.com/sibssssssss/" //ur website
-global.vidmenu = { url: 'https://a.uguu.se/zlzQZvXH.mp4' } //gif and video menu
-global.packname = "Arctix\n\n\n\n\n\n\n "
+global.vidmenu = { url: 'https://i.imgur.com/Z7EHQma.mp4' } //gif and video menu
+global.packname = "Arctix"
 global.author = "inc"
 global.themeemoji = "🧧"
 global.reactmoji = "😇"

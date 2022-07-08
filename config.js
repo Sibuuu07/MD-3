@@ -41,7 +41,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['447451239331'] //ur owner number
+global.owner = ['919337956084'] //ur owner number
 global.ownername = "Arctix"
 global.ytname = "INSTAGRAM: Sibssssssss" //ur yt chanel name
 global.socialm = "GitHub: Sibuuu07" //ur github or insta name
@@ -55,8 +55,8 @@ global.packname = "Arctix"
 global.author = "inc"
 global.themeemoji = "🧧"
 global.reactmoji = "😇"
-global.ownertag = ['447451239331'] //ur owner tag
-global.ownernummenu = ['447451239331'] //ur owner number in menu and all
+global.ownertag = ['919337956084'] //ur owner tag
+global.ownernummenu = ['919337956084'] //ur owner number in menu and all
 global.watermark = "𝐀𝐫𝐜𝐭𝐢𝐱 × 𝐀𝐫𝐜𝐞𝐮𝐬 𝐢𝐧𝐜." //ur watermark
 global.botscript = "https://github.com/Sibuuu07/MD-3"
 global.linkz1 = "https://chat.whatsapp.com/Kb6msWfU8fP25KcG3M4Xtw"
